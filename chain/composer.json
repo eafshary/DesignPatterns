@@ -1,0 +1,16 @@
+{
+    "name": "eafshary/decorator",
+    "description": "Implement Decorator Design Pattern",
+    "authors": [
+        {
+            "name": "eafshary",
+            "email": "eafshary@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "App\\": "app"
+    }
+}
+}
